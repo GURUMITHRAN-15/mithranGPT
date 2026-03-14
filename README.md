@@ -104,7 +104,8 @@ mithranGPT/
 ├── .env
 └── README.md
 ```
-
+## Live Demo
+https://mithrangpt.streamlit.app
 ---
 
 ## 👨‍💻 Author
